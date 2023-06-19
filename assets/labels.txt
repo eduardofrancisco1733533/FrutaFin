@@ -1,0 +1,12 @@
+0 Cereza
+1 Durazno
+2 Fresa
+3 kiwi
+4 Limon
+5 Coco
+6 Manzana
+7 Naranja
+8 Piña
+9 Platano
+10 Sandia
+11 Uva
